@@ -1,0 +1,28 @@
+{
+    "name": "@gden/socket",
+    "description": "A socket service package for handling WebSocket connections.",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/georgedenning/socket.git"
+    },
+    "keywords": [
+        "socket",
+        "websocket",
+        "socket.io",
+        "socket.io-client"
+    ],
+    "author": "George Denning <npmgden@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/georgedenning/socket/issues"
+    },
+    "homepage": "https://github.com/georgedenning/socket#readme",
+    "dependencies": {
+        "socket.io-client": "4.7.2"
+    }
+}
