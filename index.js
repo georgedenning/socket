@@ -1,1 +1,3 @@
-export { default as SocketService } from "./src/SocketService";
+import SocketService from './src/SocketService';
+
+export default SocketService;
